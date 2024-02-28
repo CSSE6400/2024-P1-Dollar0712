@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "2024-p1-dollar0712"
+version = "0.1.0"
+description = ""
+authors = ["kaipeng zhang <s4524362@student.uq.edu.au>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+flask = "^3.0.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
